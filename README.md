@@ -71,5 +71,5 @@
 ###
 
 <h2>📫 Get in Touch</h2>
-<p>I'm always open to new opportunities, collaborations, or just a chat about tech! You can reach me via Email or connect with me on LinkedIn.</p>
+<p>I'm always open to new opportunities, collaborations, or just a chat about tech! You can reach me via <a href="www.gmail.com"> Email</a> or connect with me on <a href="www.linkedin.com/in/sunaykatti">LinkedIn</a>.</p>
 ###
