@@ -1,10 +1,12 @@
 <h1 align="left">Hey 👋 What's up?</h1>
+
+###
 <h2>Sunay Katti - Web & Mobile Apps Developer</h2>
 
 ###
 
 <h2 align="left">About me</h2>
-###
+
 
 <p align="left">👋 Hi there! I'm Sunay Katti, a passionate Web and Mobile Apps Developer with a strong foundation in both front-end and back-end technologies. I love crafting seamless user experiences and building robust, scalable applications.</p>
 
